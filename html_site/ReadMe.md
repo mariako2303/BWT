@@ -1,1 +1,1 @@
-https://github.com/mariako2303/BWT_2025/blob/main/html_site/index.html
+https://mariako2303.github.io/BWT_2025/blob/main/html_site/index.html
