@@ -1,1 +1,1 @@
- https://mariako2303.github.io/BWT/info.html
+ https://mariako2303.github.io/BWT/index.html
